@@ -1,0 +1,17 @@
+{
+    "name": "revers-boilerplate",
+    "version": "0.0.1",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "pavelrevers",
+    "license": "ISC",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "webpack": "^1.5.3",
+        "http-server": "^0.7.4"
+    }
+}
